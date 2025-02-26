@@ -36,10 +36,10 @@ img {
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: rgb(19, 37, 117);
+    color: rgb(0, 0, 124);
     font-size: 2em;
     padding: 0.1em 3em;
-    background-color:  rgb(196, 91, 5);
+    background-color:  orange;
 }
 
 /* Three column grid with a nice big gap */
@@ -55,8 +55,8 @@ img {
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
-    background-color: rgb(196, 91, 5);
-    color: rgb(19, 37, 117);
+    background-color: orange;
+    color: rgb(0, 0, 124);
     padding: 1em;
     border-radius: 0.5em;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
@@ -73,8 +73,8 @@ img {
 
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
-    background-color: rgb(196, 91, 5);
-    color: rgb(19, 37, 117);
+    background-color:orange;
+    color: rgb(0, 0, 124);
     text-align: right;
     padding: 3em 3em;
 }
