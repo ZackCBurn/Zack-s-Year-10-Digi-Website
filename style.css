@@ -7,13 +7,13 @@ html {
     /* The Font Family- Really important!! */
     font-family: Arial, sans-serif;
     box-sizing: border-box;
+    background-image: url("360_F_307220247_Oy1sghv8j5CPHmXBsncFN17UD7JViLcw.jpg")
 }
 
 /* reset for images to ensure they ar 100% of the parent container width */
 img {
     width: 100%;
 }
-
 /* The hero section styling- use your OWN Hero Image URL here */
 .hero {
     background-image: url('images/347040.png');
