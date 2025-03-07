@@ -31,6 +31,10 @@ button a{
     color: rgb(0, 0, 124);
 }
 
+.nav{
+    width: 100vw;
+    background-color: orange
+}
 /* reset for images to ensure they ar 100% of the parent container width */
 img {
     width: 100%;
