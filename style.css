@@ -52,7 +52,20 @@ img {
     text-align: center;
     position: relative;
 }
-
+.homepage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.black-box{
+    background-color: orange;
+    color: rgb(0, 0, 124);
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 25px auto;
+    text-align: center;
+}
 /* BIG text styling for the hero section text */
 .hero-text {
     font-size: 4em;
@@ -99,6 +112,11 @@ img {
     font-size: 0.8em;
     color: rgb(0, 0, 124);
     margin-top: 5px;
+}
+
+.zack-image{
+    width: 750px;
+    height: auto;
 }
 
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
