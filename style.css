@@ -91,6 +91,16 @@ img {
     margin: 3em auto;
 }
 
+.topic-content-1{
+    justify-content: center;
+    gap: 6em;
+    /* bring the whole section in off the sides of the page */
+    width: 30%;
+    /* top margin of 3em and center right/left */
+    margin: 3em auto;
+    height: auto;
+}
+
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
     background-color: orange;
